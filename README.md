@@ -46,7 +46,7 @@ Di dalam repository ini terdapat beberapa implementasi logika:
 1. Pastikan kamu memiliki compiler C++ (seperti MinGW atau GCC).
 2. Clone repository ini:
    ```bash
-   git clone [https://github.com/DigiVora/Logic-Loops.git](https://github.com/username-kamu/Logic-Loops.git)
+   git clone [https://github.com/DigiVora/Logic-Loops.git]
    ```
 3. Buka file .cpp menggunakan **Dev-C++**
 4. Tekan F11 untuk melakukan ***Compile and Run.***
