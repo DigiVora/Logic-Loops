@@ -1,0 +1,25 @@
+# Dev-C++ specific files
+*.layout
+*.win
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables (Hasil Compile)
+*.exe
+*.out
+*.app
+
+# Temporary & Backup files
+*.tmp
+*.bak
+*.swp
+
+# IDE/Project metadata
+.vscode/
+.idea/
+*.depend
+
+# Logs
+*.log
